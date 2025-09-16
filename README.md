@@ -12,9 +12,9 @@ I am a 4th semester Computer Engineering Student at CESUPA, and I'm passionated 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="spring logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="50" alt="maven logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50" alt="c logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" alt="c++ logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="50" alt="docker logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"/>
@@ -26,7 +26,7 @@ I am a 4th semester Computer Engineering Student at CESUPA, and I'm passionated 
 </div>
 
 ## My stats:
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoSantos14)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HugoSantos14/HugoSantos14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
