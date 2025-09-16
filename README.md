@@ -7,7 +7,7 @@ I am a 4th semester Computer Engineering Student at CESUPA, and I'm passionated 
 - Embedded Systems
 
 ## Tech Stack:
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="spring logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="50" alt="maven logo"/>
