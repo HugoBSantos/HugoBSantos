@@ -1,12 +1,12 @@
 # Hi! My name is Hugo.
 I am a 4th semester Computer Engineering Student at CESUPA, and I'm passionated not just about resolving problems, but also about understanding them.  
 
-## 🧠 I'm currently focused on:
+## I'm currently focused on:
 - Python, SQL and Docker
 - Data Engineering and Data Analysis
 - Embedded Systems
 
-## 👨🏻‍💻 Tech Stack:
+## Tech Stack:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="spring logo"/>
@@ -25,23 +25,8 @@ I am a 4th semester Computer Engineering Student at CESUPA, and I'm passionated 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="50" alt="linux mint logo"/>
 </div>
 
-## 🚀 My stats:
+## My Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HugoSantos14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoSantos14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
-
-<!--
-**HugoSantos14/HugoSantos14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
