@@ -2,8 +2,9 @@
 I am a 4th semester Computer Engineering Student at CESUPA, and I'm passionated not just about resolving problems, but also about understanding their nature.
 
 ## I'm currently focused on learning:
-- Python, SQL and Docker
+- Python and SQL
 - Data Engineering
+- Cloud Computing
 
 ## Tech Stack:
 <div align="center">
