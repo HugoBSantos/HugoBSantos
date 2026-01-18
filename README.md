@@ -4,7 +4,6 @@ I am a 5th semester Computer Engineering Student at CESUPA, and I'm passionated 
 ## I'm currently focused on learning:
 - Python and SQL
 - Data Engineering
-- Cloud Computing
 
 ## Tech Stack:
 <div align="center">
